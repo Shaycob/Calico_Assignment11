@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calico_Assignment11", "Calico_Assignment11\Calico_Assignment11.pyproj", "{ED8B8D01-0D44-41A0-8E94-1094C201F97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8B8D01-0D44-41A0-8E94-1094C201F97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8B8D01-0D44-41A0-8E94-1094C201F97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0649A6-A85C-4B26-8CBF-9566B83758F9}
+	EndGlobalSection
+EndGlobal
